@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LancelotMilton
-- 👀 I’m interested in C++, Ada and Lisp programming
+- 👀 I’m interested in C, C++, Ada and Lisp programming
 - 🌱 I’m currently learning Computer science
 - 💞️ I’m looking to collaborate on ...
 - 📫 you can finde me on alirezashojaei82@gmail.com
