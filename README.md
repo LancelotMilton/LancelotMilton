@@ -1,5 +1,5 @@
 <!---
-Inspired from https://github.com/janleigh and 
+Inspired from https://github.com/janleigh and https://github.com/Haceau-Zoac
 --->
 <p align="left"><strong><samp>「</samp></strong></p>
 <p align="center">
