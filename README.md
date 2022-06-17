@@ -12,11 +12,6 @@ Inspired from https://github.com/janleigh and https://github.com/Haceau-Zoac
          <em>おはよう こんばんちは.</em>
       </samp><br>
    </p>
-   <p align="center">
-      <samp>
-         <em></em>
-      </samp><br>
-   </p>
    <p align="right"><strong><samp>」</samp></strong></p>
    
 <details align="center">
