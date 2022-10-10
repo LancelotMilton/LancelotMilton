@@ -18,7 +18,7 @@ Inspired from https://github.com/janleigh and https://github.com/Haceau-Zoac
 <summary><samp>extend</samp></summary>
   <p align="center">
    <samp>
-      <em>languages and Thechnologies.</em>
+      <em>languages and Technologies.</em>
       <br>
    </samp><br>
    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
