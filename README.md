@@ -4,7 +4,7 @@ Inspired from https://github.com/janleigh and https://github.com/Haceau-Zoac
 <p align="left"><strong><samp>「</samp></strong></p>
 <p align="center">
       <samp>
-         <em>Good Morafterevening</em>
+         <em>Good Moreafterevening</em>
       </samp><br>
    </p>
    <p align="center">
